@@ -17,6 +17,7 @@ Locale.setDefault(Locale.US);
 
 
         x = sc.nextInt();
+        sc.nextLine();
         s1 = sc.nextLine();
         s2 = sc.nextLine();
         s3 = sc.nextLine();
