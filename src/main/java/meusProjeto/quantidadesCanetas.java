@@ -2,7 +2,7 @@ package meusProjeto;
 
 import java.util.Scanner;
 
-public class primeiroDEv {
+public class quantidadesCanetas {
 
 public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
