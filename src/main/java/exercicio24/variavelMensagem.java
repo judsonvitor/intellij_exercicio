@@ -1,4 +1,4 @@
-package MeusExercicoSozinho;
+package exercicio24;
 
 public class variavelMensagem {
     public static void main(String[] args){

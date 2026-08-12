@@ -1,4 +1,4 @@
-package MeusExercicoSozinho;
+package exercicio24;
 
 public class nomeComChar {
 

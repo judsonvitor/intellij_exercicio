@@ -1,4 +1,4 @@
-package MeusExercicoSozinho;
+package exercicio24;
 
 public class booleanPreco {
     public static void main(String[] args){
