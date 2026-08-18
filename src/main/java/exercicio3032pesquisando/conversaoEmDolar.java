@@ -12,7 +12,7 @@ public class conversaoEmDolar {
 
 
         System.out.println("digite a cotação em dólar: ");
-        Double dolar = Double.parseDouble(scanner.nextLine());
+        double dolar = Double.parseDouble(scanner.nextLine());
 
 
         double dolares = reais / dolar;
