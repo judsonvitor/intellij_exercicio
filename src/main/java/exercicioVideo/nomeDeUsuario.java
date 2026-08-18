@@ -1,4 +1,4 @@
-package exercicios;
+package exercicioVideo;
 
 public class nomeDeUsuario {
 

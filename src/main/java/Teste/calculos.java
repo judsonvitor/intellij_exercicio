@@ -1,6 +1,6 @@
 package Teste;
 
-public class exercicio_de_cálculos {
+public class calculos {
 
     public static void main(String[] args) {
 

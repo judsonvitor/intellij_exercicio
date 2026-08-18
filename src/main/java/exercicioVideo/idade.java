@@ -1,4 +1,4 @@
-package exercicios;
+package exercicioVideo;
 
 import java.util.Scanner;
 

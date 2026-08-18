@@ -7,7 +7,6 @@ public class nomeComChar {
 
         char letraInicial = 'j';
 
-
         System.out.println("meu nome é judson e a letra inicial é " + letraInicial);
     }
 }

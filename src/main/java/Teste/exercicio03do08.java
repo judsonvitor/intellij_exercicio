@@ -4,7 +4,7 @@ package Teste;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class parte_2_exercicio_03_08 {
+public class exercicio03do08 {
 
     public static void main (String[] args){
 

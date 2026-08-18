@@ -1,7 +1,9 @@
+package Teste;
+
 import java.util.Locale;
 import java.util.Scanner;
 
-public class leitura_de_dados {
+public class leituradados {
     public static void main(String[] args) {
 
         double x = 10.35784;

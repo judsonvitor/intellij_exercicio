@@ -1,4 +1,4 @@
-package matematica;
+package exercicio3032;
 
 import java.util.Scanner;
 
