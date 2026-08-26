@@ -8,6 +8,17 @@ public class exercicio3 {
 
 
         System.out.println("Digite algum número: ");
-        int par = Integer.parseInt(scanner.nextLine());
+        int numero = Integer.parseInt(scanner.nextLine());
+
+
+
+        boolean ehpar = (numero %2 == 0);
+
+
+        System.out.println("o numero é par?: " + ehpar);
+
+
+
+        scanner.close();
     }
 }
