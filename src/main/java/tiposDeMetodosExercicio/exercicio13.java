@@ -32,7 +32,7 @@ class exercicioo13 {
 
     public static void main() {
         int idadeinformada = lerDados();
-        boolean ehmaiordeidade = apresentaDados(idadeinformada);
+        boolean ehmaiordeidade = processar(idadeinformada);
         apresentaDados(ehmaiordeidade);
     }
 }
