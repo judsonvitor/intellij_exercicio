@@ -1,0 +1,22 @@
+package Parte3OperacaoMatematica;
+
+import java.util.Scanner;
+
+public class exercicio13 {
+    public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
+
+
+        System.out.println();
+
+
+
+
+
+
+
+
+
+
+    }
+}
