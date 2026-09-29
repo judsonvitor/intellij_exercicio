@@ -7,16 +7,17 @@ public class exercicio13 {
         Scanner scanner = new Scanner(System.in);
 
 
-        System.out.println();
+        System.out.println("Para calcular um quadradado me diga o lado dele");
+        String texto = scanner.nextLine();
+        double lado = Double.parseDouble(texto);
 
 
+        double soma = lado * lado;
 
 
+        System.out.println("o tamanho de ambos é: "+ soma);
 
 
-
-
-
-
+        scanner.close();
     }
 }
