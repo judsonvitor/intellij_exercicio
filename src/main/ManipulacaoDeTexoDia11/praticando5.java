@@ -13,6 +13,17 @@ public class praticando5 {
 
 
 
+        for (String palavra : palavras) {
+            if (!palavra.isBlank()) {
+                iniciais += palavra.toUpperCase().charAt(0) + ".";
+
+            }
+        }
+
+        System.out.println("Em letra maiscula fica: " + iniciais);
+
+
+
         scanner.close();
     }
 }
