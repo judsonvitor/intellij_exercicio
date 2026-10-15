@@ -20,8 +20,10 @@ public class leituradenomes {
         }
 
 
+        System.out.println("O nome não foi encontrado na lista.");
 
 
 
+scanner.close();
     }
 }
