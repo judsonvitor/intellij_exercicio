@@ -23,6 +23,5 @@ public static void main(String[] args){
         }
         System.out.println("O número total de maiores que 10 são: " + contador);
 //      Depois puxamos essa variável e apresentamos o resultado.
-
 }
 }
