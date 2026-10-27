@@ -7,7 +7,6 @@ public class usuarioDigitando {
         Scanner scanner = new Scanner(System.in);
 
         int usuario = 0;
-
         int numeros = -1;
 
 
