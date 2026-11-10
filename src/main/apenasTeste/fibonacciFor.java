@@ -1,7 +1,7 @@
 public class fibonacciFor {
     public static void main(String[] args){
 
-        int anterior = 0;
+        int anterior = 1;
         int atual = 1;
 
         for (int i = 1; i <= 1000; i++){
