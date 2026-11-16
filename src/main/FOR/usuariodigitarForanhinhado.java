@@ -12,11 +12,12 @@ public class usuariodigitarForanhinhado {
     int colunas = Integer.parseInt(scanner.nextLine());
 
 
-for (int i = 1 ; i <= linhas; i++) {
+for (int i = 1 ; colunas <= linhas; i++) {
     for (int j = 1 ; j <= i; j++) {
         System.out.print("*");
     }
     System.out.println();
+
 }
  scanner.close();   }
 
