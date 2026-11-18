@@ -5,13 +5,21 @@ public class identificarVogais {
         Scanner scanner = new Scanner(System.in);
 
     System.out.println("Digite seu nome: ");
-    String identificarVogais = scanner.nextLine();
+    String identificarVogais = scanner.nextLine().strip();
 
 
-    for (int i = 0; i <= 10; i++) {
-     char letras =
+    for (int i = 0; i < identificarVogais.length(); i++) {
+
+
+       char texo = Character.toLowerCase(identificarVogais.charAt(i));
+       if (texo == 'a' || texo == 'e' || texo == 'i' || texo == 'o' || texo == 'u') {
+           System.out.println("Seu nome possuí vogal '"+ " " +   texo  + " " + "' na posição "+ (i + 1 ));
+
+       }
     }
 
 
+
+scanner.close();
     }
 }

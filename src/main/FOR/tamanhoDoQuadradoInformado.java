@@ -13,14 +13,9 @@ public class tamanhoDoQuadradoInformado {
 
         for (int j = 1; j <= quadrado; j++) {
         System.out.print("* ");
-
         }
         System.out.println();
     }
-
-
-
-
 
     }
 }
